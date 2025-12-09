@@ -1,12 +1,12 @@
-****Adventure works Dashboard****
+# ****Adventure works Dashboard****
 
-**1. Project Title / Headline**
+## **1. Project Title / Headline**
 🚴 Adventure Works: Executive Sales, Customer & Product Insights Dashboard An advanced, multi-page business intelligence solution built with Power BI to analyze the full sales lifecycle—from global regional performance to individual product profitability and customer demographics.
 
-**2. Short Description / Purpose**
+## **2. Short Description / Purpose**
 This report serves as a central analytics platform for the Adventure Works cycling brand, transforming raw transactional data from Kaggle into actionable insights. It features a hierarchical navigation flow: users start at a high-level Executive Dashboard to monitor KPIs, and can perform deep-dive analyses via Drillthrough actions to investigate specific product performance or customer trends. The tool allows stakeholders to identify profitable regions, simulate pricing scenarios, and optimize inventory based on return rates.
 
-**3. Tech Stack**
+## **3. Tech Stack**
 The report utilizes advanced Power BI features to deliver a highly interactive experience:
 
 **⚙️ Advanced Modeling:** Implements a Snowflake Schema, enabling complex filtering across Product Categories, Subcategories, and SKUs.
@@ -21,7 +21,7 @@ The report utilizes advanced Power BI features to deliver a highly interactive e
 
 **🗺️ Geospatial Visualization:** Bing Maps integration for analyzing sales distribution across continents.
 
-**4. Data Source**
+## **4. Data Source**
 **Source****:** Kaggle (Adventure Works Dataset). The dataset consists of raw CSV/Excel files processed into a structured model:
 
 **Fact Tables:** Sales Data and Returns Data containing transactional history.
@@ -30,7 +30,7 @@ The report utilizes advanced Power BI features to deliver a highly interactive e
 
 Normalization: Product data is normalized into three tables (Category > Subcategory > Product) to handle the hierarchy efficiently.
 
-**5. Features / Highlights
+## **5. Features / Highlights
 • Executive Dashboard (Home Page)**
 
 **High-Level KPIs:** Instant view of Revenue ($24.9M), Profit, Orders, and Return Rates.

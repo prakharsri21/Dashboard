@@ -30,8 +30,8 @@ The report utilizes advanced Power BI features to deliver a highly interactive e
 
 Normalization: Product data is normalized into three tables (Category > Subcategory > Product) to handle the hierarchy efficiently.
 
-## **5. Features / Highlights
-• Executive Dashboard (Home Page)**
+## 5. Features / Highlights
+• Executive Dashboard (Home Page)
 
 **High-Level KPIs:** Instant view of Revenue ($24.9M), Profit, Orders, and Return Rates.
 

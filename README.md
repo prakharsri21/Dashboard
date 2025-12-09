@@ -22,7 +22,7 @@ The report utilizes advanced Power BI features to deliver a highly interactive e
 **🗺️ Geospatial Visualization:** Bing Maps integration for analyzing sales distribution across continents.
 
 ## **4. Data Source**
-**Source****:** Kaggle (Adventure Works Dataset). The dataset consists of raw CSV/Excel files processed into a structured model:
+**Source** : Kaggle (Adventure Works Dataset). The dataset consists of raw CSV/Excel files processed into a structured model:
 
 **Fact Tables:** Sales Data and Returns Data containing transactional history.
 
@@ -31,7 +31,7 @@ The report utilizes advanced Power BI features to deliver a highly interactive e
 Normalization: Product data is normalized into three tables (Category > Subcategory > Product) to handle the hierarchy efficiently.
 
 ## 5. Features / Highlights
-• Executive Dashboard (Home Page)
+**• Executive Dashboard (Home Page)**
 
 **High-Level KPIs:** Instant view of Revenue ($24.9M), Profit, Orders, and Return Rates.
 

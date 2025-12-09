@@ -68,3 +68,7 @@ Normalization: Product data is normalized into three tables (Category > Subcateg
 **Targeted Marketing:** By seeing that "Professionals" and "Average Income" earners drive the most orders, marketing spend can be optimized for these demographics.
 
 **Operational Efficiency:** The ability to see exactly where (Map) and what (Product Drillthrough) is selling allows for better inventory distribution.
+
+## 6. Screenshot
+<img width="957" height="524" alt="image" src="https://github.com/user-attachments/assets/3201b177-100e-4e18-a27a-81ea5211b8bc" />
+
